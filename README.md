@@ -11,4 +11,4 @@ $ pip install -r requirements.txt
 ```
 ---
 
-[Code](https://github.com/pythontoday/download_files_python)
+[Code](https://github.com/pythontoday/python_gdrive)
